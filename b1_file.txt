@@ -1,1 +1,2 @@
 stuff
+appended b1_file after switching
